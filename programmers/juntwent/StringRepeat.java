@@ -12,6 +12,6 @@ public class StringRepeat {
         String A = sc.next();
         int n = sc.nextInt();
         
-        System.out.println((A).repeat(n));
+        System.out.println(A.repeat(n));
     }
 }
