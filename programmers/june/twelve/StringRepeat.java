@@ -3,7 +3,7 @@
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181950
  */
 
-package programmers.june.twenty;
+package programmers.june.twelve;
 import java.util.Scanner;
 
 public class StringRepeat {
