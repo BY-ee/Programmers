@@ -4,7 +4,7 @@
  */
 
 
-package programmers.june.eighteen;
+package programmers.june.june18;
 
 public class Multiply {
     public String solution(String my_string, int k) {  // 문자열과 문자열을 반복할 횟수 k를 입력

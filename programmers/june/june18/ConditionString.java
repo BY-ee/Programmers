@@ -4,7 +4,7 @@
  */
 
 
-package programmers.june.eighteen;
+package programmers.june.june18;
 
 public class ConditionString {
     public int solution(String ineq, String eq, int n, int m) {

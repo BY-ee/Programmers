@@ -4,7 +4,7 @@
  */
 
 
-package programmers.june.fifteen;
+package programmers.june.june15;
 
 class ListToString1 {
     public String result(String[] arr) {

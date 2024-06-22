@@ -15,7 +15,7 @@
  */
 
 
-package programmers.june.eighteen;
+package programmers.june.june18;
 
 class Solution {
     public int solution(int number, int n, int m) {

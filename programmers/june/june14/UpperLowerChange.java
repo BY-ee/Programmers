@@ -4,7 +4,7 @@
  */
 
 
-package programmers.june.fourteen;
+package programmers.june.june14;
 import java.util.Scanner;
 
 public class UpperLowerChange {

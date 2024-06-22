@@ -8,7 +8,7 @@
  *  a % b == 0 이면 배수
  */
 
-package programmers.june.eighteen;
+package programmers.june.june18;
 
 public class MultipleOfN {
 

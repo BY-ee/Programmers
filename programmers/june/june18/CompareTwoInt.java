@@ -4,7 +4,7 @@
  */
 
 
-package programmers.june.eighteen;
+package programmers.june.june18;
 
 public class CompareTwoInt {
     public int solution(int a, int b) {

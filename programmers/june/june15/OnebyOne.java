@@ -4,7 +4,7 @@
  */
 
 
-package programmers.june.fifteen;
+package programmers.june.june15;
 
 class A {
     public static String resultret (String str1, String str2) {
