@@ -8,7 +8,7 @@
  *  start 인덱스부터 end 인덱스까지의 문자
  */
 
-package programmers.june26;
+package programmers.june.june26;
 
 public class FlipManyTimes {
     public String solution(String my_string, int[][] queries) {

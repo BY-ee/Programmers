@@ -12,7 +12,7 @@
     return sb.toString();
 */
 
-package programmers.june26;
+package programmers.june.june26;
 
 public class JoinString {
     public String solution(String my_string, int[] index_list) {

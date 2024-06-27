@@ -10,7 +10,7 @@
  * 따라서 '0'을 빼준다는 것은 (어떤 숫자의 아스키 코드값 - 0의 아스키 코드값)을 의미하기 때문에 결과적으로는 내가 담으려는 숫자가 담기는 것.
  */
 
-package programmers.june26;
+package programmers.june.june26;
 
 public class Mod9 {
     public int solution(String number) {

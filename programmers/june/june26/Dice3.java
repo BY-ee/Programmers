@@ -4,7 +4,7 @@
  */
 
 
-package programmers.june26;
+package programmers.june.june26;
 
 import java.util.Arrays;
 
