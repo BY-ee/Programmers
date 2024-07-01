@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "StringRepeat",
+            "request": "launch",
+            "mainClass": "programmers.june.june12.StringRepeat",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "UpperLowerChange",
+            "request": "launch",
+            "mainClass": "programmers.june.june14.UpperLowerChange",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "ListToString",
+            "request": "launch",
+            "mainClass": "programmers.june.june15.ListToString",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "OnebyOne",
+            "request": "launch",
+            "mainClass": "programmers.june.june15.OnebyOne",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "CommonMulpitle",
+            "request": "launch",
+            "mainClass": "programmers.june.june18.CommonMulpitle",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "CompareTwoInt",
+            "request": "launch",
+            "mainClass": "programmers.june.june18.CompareTwoInt",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "ConditionString",
+            "request": "launch",
+            "mainClass": "programmers.june.june18.ConditionString",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "DivisionOddEven",
+            "request": "launch",
+            "mainClass": "programmers.june.june18.DivisionOddEven",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "MultipleOfN",
+            "request": "launch",
+            "mainClass": "programmers.june.june18.MultipleOfN",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "Multiply",
+            "request": "launch",
+            "mainClass": "programmers.june.june18.Multiply",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "SumJoin",
+            "request": "launch",
+            "mainClass": "programmers.june.june18.SumJoin",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "Dice2",
+            "request": "launch",
+            "mainClass": "programmers.june.june21.Dice2",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "HandleCode",
+            "request": "launch",
+            "mainClass": "programmers.june.june21.HandleCode",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "JoinOddEven",
+            "request": "launch",
+            "mainClass": "programmers.june.june21.JoinOddEven",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "Last2Elements",
+            "request": "launch",
+            "mainClass": "programmers.june.june21.Last2Elements",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "MulAndSum",
+            "request": "launch",
+            "mainClass": "programmers.june.june21.MulAndSum",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "ControlNum1",
+            "request": "launch",
+            "mainClass": "programmers.june.june22.ControlNum1",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "Query2",
+            "request": "launch",
+            "mainClass": "programmers.june.june22.Query2",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "Query3",
+            "request": "launch",
+            "mainClass": "programmers.june.june22.Query3",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "MakeArray4",
+            "request": "launch",
+            "mainClass": "programmers.june.june24.MakeArray4",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "Dice3",
+            "request": "launch",
+            "mainClass": "programmers.june.june26.Dice3",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "FlipManyTimes",
+            "request": "launch",
+            "mainClass": "programmers.june.june26.FlipManyTimes",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "Mod9",
+            "request": "launch",
+            "mainClass": "programmers.june.june26.Mod9",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "JoinSomeString",
+            "request": "launch",
+            "mainClass": "programmers.june.june27.JoinSomeString",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "MakeArray5",
+            "request": "launch",
+            "mainClass": "programmers.june.june27.MakeArray5",
+            "projectName": "Git_3faa3c7a"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "programmers.test.Test2",
+            "projectName": "Git_3faa3c7a"
+        }
+    ]
+}
