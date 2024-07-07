@@ -13,5 +13,7 @@ public class StringRepeat {
         int n = sc.nextInt();   // 반복할 횟수 입력
         
         System.out.println(A.repeat(n));  // n번만큼 A 문자열을 반복 출력
+
+        sc.close();
     }
 }

@@ -21,6 +21,9 @@ public class UpperLowerChange {
                 result += Character.toUpperCase(c);     // result 변수에 담겨 있는 문자의 뒤에 c를 대문자로 변환하여 대입
             }
         } 
+
+        sc.close();
+        
         System.out.println(result);     // 반복문이 끝난 후의 result 문자열을 프린트 (대소문자가 바뀜)
     }
 }

@@ -42,9 +42,4 @@ public class Return2 {
                 return answer.stream().mapToInt(i -> i).toArray();  // answer을 정수 배열로 변환 후 반환
         }
     }
-
-    public static void main(String[] args) {
-        Return2 r = new Return2();
-
-    }
 }
