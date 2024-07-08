@@ -11,7 +11,7 @@ public class ToDoList {
     public String[] solution(String[] todo_list, boolean[] finished) {
         ArrayList<String> al = new ArrayList<> ();
 
-        for(int i = 0; i < todo_list.length; i++) {  // todo_list의 길이만큼 반복
+        for(int i = 0; i < todo_list.length; i++) {    // todo_list의 길이만큼 반복
             if(!finished[i]) al.add(todo_list[i]);     // finished의 i 인덱스가 false라면 al에 todo_list의 i 인덱스 값 대입
         }
 
