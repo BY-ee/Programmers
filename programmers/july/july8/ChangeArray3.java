@@ -1,5 +1,5 @@
 /** 2024-07-08 18:20
- *  조건에 맞게 수열 반환하기 3
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 조건에 맞게 수열 반환하기 3
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181835
  */
 

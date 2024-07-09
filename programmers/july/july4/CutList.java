@@ -1,5 +1,5 @@
 /** 2024-07-04 18:00
- *  리스트 자르기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 리스트 자르기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181897
  */
 

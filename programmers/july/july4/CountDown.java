@@ -1,5 +1,5 @@
 /** 2024-07-04 15:50
- *  카운트 다운
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 카운트 다운
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181899
  */
 

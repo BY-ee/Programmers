@@ -1,5 +1,5 @@
 /** 2024-06-14 03:40
- *  대소문자 바꿔서 출력하기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 대소문자 바꿔서 출력하기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181949
  */
 

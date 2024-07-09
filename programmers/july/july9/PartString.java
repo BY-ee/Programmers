@@ -1,5 +1,5 @@
 /** 2024-07-09 00:50
- *  부분 문자열
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 부분 문자열
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181842
  */
 

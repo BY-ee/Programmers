@@ -1,5 +1,5 @@
 /** 2024-07-02 00:20
- *  접미사 배열
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 접미사 배열
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181909
  */
 

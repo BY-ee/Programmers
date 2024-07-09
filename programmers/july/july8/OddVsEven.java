@@ -1,5 +1,5 @@
 /** 2024-07-08 16:00
- *  홀수 vs 짝수
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 홀수 vs 짝수
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181887
  */
 

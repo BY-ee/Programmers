@@ -1,5 +1,5 @@
 /** 2024-07-08 18:55
- *  정수 찾기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 정수 찾기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181840
  */
 

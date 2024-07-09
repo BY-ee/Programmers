@@ -1,5 +1,5 @@
 /** 2024-07-03 20:15
- *  문자 개수 세기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 문자 개수 세기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181902
  */
 

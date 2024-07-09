@@ -1,5 +1,5 @@
 /** 2024-06-25 01:40
- *  카운트 업
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 카운트 업
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181920
  */
 

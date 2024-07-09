@@ -1,5 +1,5 @@
 /** 2024-07-04 18:30
- *  첫 번째로 나오는 음수
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 첫 번째로 나오는 음수
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181896
  */
 

@@ -1,5 +1,5 @@
 /** 2024-06-18 17:20
- *  공배수
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 공배수
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181936
  */
 

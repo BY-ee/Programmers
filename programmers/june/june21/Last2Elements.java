@@ -1,5 +1,5 @@
 /** 2024-06-21 23:00
- *  마지막 두 원소
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 마지막 두 원소
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181927
  */
 
@@ -16,11 +16,11 @@ public class Last2Elements {
             al.add(num_list[i]);                         // ArrayList 인스턴스 al에 num_list의 i 인덱스 데이터를 추가
         }
         
-        if (al.getLast() > al.get(num_list.length - 2)) {
+        if (al.size() > al.get(num_list.length - 2)) {
                   // al의 마지막 원소가 그전 원소보다 크다면
-            al.add(al.getLast() - al.get(num_list.length - 2));
+            al.add(al.size() - al.get(num_list.length - 2));
                   // 마지막 원소에서 그전 원소를 뺀 값을 al에 추가
-        } al.add(al.getLast() * 2);
+        } al.add(al.size() * 2);
                   // 크지 않다면 마지막 원소를 2배한 값을 al에 추가
         for (int i = 0; i < answer.length; i++) {     // answer 정사 배열의 길이만큼 반복
             answer[i] = al.get(i);                    // al의 i 인덱스 데이터를 answer에 대입

@@ -1,5 +1,5 @@
 /** 2024-06-21 22:15
- *  이어 붙인 수
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 이어 붙인 수
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181928
  */
 

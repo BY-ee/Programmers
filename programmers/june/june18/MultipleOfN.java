@@ -1,5 +1,5 @@
 /** 2024-06-18 16:50
- *  n의 배수
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > n의 배수
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181937
  */
 

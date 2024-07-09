@@ -1,3 +1,8 @@
+/** 2024-07-05 16:00
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 순서 바꾸기
+ *  https://school.programmers.co.kr/learn/courses/30/lessons/181891
+ */
+
 package programmers.july.july5;
 
 import java.util.Arrays;

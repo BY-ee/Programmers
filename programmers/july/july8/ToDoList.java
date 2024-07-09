@@ -1,5 +1,5 @@
 /** 2024-07-08 17:20
- *  할 일 목록
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 할 일 목록
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181885
  */
 

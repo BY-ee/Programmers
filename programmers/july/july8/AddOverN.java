@@ -1,5 +1,5 @@
 /** 2024-07-08 17:35
- *  n보다 커질 때까지 더하기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > n보다 커질 때까지 더하기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181884
  */
 

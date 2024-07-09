@@ -1,5 +1,5 @@
 /** 2024-06-22 23:30
- *  수 조작하기 1
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 수 조작하기 1
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181926
  */
 

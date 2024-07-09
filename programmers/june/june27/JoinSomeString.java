@@ -1,5 +1,5 @@
 /** 2024-06-28 04:40
- *  부분 문자열 이어 붙여 문자열 만들기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 부분 문자열 이어 붙여 문자열 만들기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181911
  */
 

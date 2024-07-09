@@ -1,5 +1,5 @@
 /** 2024-07-04 15:00
- *  글자 지우기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 글자 지우기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181900
  */
 

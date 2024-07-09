@@ -1,5 +1,5 @@
 /** 2024-07-03 18:30
- *  점 찍기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 점 찍기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/140107
  */
 

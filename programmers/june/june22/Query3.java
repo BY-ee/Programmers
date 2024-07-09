@@ -1,5 +1,5 @@
 /** 2024-06-23 01:20
- *  수열과 구간 쿼리 3
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 수열과 구간 쿼리 3
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181924
  */
 

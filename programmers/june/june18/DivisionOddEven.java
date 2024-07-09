@@ -1,5 +1,5 @@
 /** 2024-06-18 17:40
- *  홀짝에 따라 다른 값 반환하기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 홀짝에 따라 다른 값 반환하기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181935
  */
 

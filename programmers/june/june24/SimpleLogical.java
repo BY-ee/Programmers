@@ -1,5 +1,5 @@
 /** 2024-06-25 02:50
- *  간단한 논리 연산
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 간단한 논리 연산
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181917
  */
 

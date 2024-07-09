@@ -1,5 +1,5 @@
 /** 2024-06-18 14:30
- *  문자열 곱하기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 문자열 곱하기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181940
  */
 

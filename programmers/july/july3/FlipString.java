@@ -1,5 +1,5 @@
 /** 2024-07-03 18:50
- *  문자열 뒤집기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 문자열 뒤집기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181905
  */
 

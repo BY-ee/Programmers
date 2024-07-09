@@ -1,5 +1,5 @@
 /** 2024-06-18 15:30
- *  더 크게 합하기 (정수를 연결)
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 더 크게 합하기 (정수를 연결)
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181939
  */
 

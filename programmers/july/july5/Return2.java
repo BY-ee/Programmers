@@ -1,5 +1,5 @@
 /** 2024-07-05 17:20
- *  2의 영역
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 2의 영역
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181894
  */
 

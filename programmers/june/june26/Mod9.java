@@ -1,5 +1,5 @@
 /** 2024-06-27 02:20
- *  9로 나눈 나머지
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 9로 나눈 나머지
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181914
  */
 

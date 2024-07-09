@@ -1,5 +1,5 @@
 /** 2024-07-09 00:20
- *  전국 대회 선발 고사
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 전국 대회 선발 고사
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181851
  */
 

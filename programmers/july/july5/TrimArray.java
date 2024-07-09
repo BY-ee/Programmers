@@ -1,5 +1,5 @@
 /** 2024-07-05 18:45
- *  배열 조각하기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 배열 조각하기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181893
  */
 

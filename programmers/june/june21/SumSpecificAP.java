@@ -1,5 +1,5 @@
 /** 2024-06-21 17:45
- *  등차수열의 특정한 값만 더하기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 등차수열의 특정한 값만 더하기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181931
  */
 

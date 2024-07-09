@@ -1,5 +1,5 @@
 /** 2024-07-03 19:50
- *  qr code (q로 나눈 나머지가 r인 인덱스의 문자 모음)
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > qr code (q로 나눈 나머지가 r인 인덱스의 문자 모음)
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181903
  */
 

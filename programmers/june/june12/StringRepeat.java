@@ -1,5 +1,5 @@
 /** 2024-06-12 02:05
- *  문자열 반복해서 출력하기
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 문자열 반복해서 출력하기
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181950
  */
 

@@ -1,5 +1,5 @@
 /** 2024-06-27 01:50
- *  주사위 게임 3
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 주사위 게임 3
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181916
  */
 

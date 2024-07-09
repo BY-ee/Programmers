@@ -1,5 +1,5 @@
 /** 2024-07-04 14:15
- *  배열 만들기 1
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 배열 만들기 1
  *  https://school.programmers.co.kr/learn/courses/30/lessons/181901
  */
 
