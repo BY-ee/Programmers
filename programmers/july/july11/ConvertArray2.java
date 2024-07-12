@@ -1,3 +1,9 @@
+/** 2024-07-11 23:40
+ *  코딩테스트 연습 > 코딩 기초 트레이닝 > 조건에 맞게 수열 변환하기 2
+ *  https://school.programmers.co.kr/learn/courses/30/lessons/181881
+ */
+
+
 package programmers.july.july11;
 import java.util.Arrays;
 
